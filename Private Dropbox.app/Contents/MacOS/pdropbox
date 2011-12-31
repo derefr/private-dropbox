@@ -1,0 +1,4 @@
+#!/bin/sh
+
+export HOME=/Users/$USER/.dropbox-private
+open -a "Dropbox"
